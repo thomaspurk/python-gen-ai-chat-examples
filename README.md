@@ -1,6 +1,6 @@
 # Python GenAI Chat Examples
 
-A collection of projects demonstration user prompt and system response chat workflows.
+A collection of projects demonstrating user prompt and system response chat workflows.
 
 ## Multi-Turn Chat OpenAI API
 
